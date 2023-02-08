@@ -1,5 +1,5 @@
 # jm-silvani-marchegiani.github.io
-Proyecto final Ticmas
+
 <!DOCTYPE html>
 <html lang="es">
     <head>
@@ -7,8 +7,8 @@ Proyecto final Ticmas
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Curriculum vitae</title>
-        <link rel="stylesheet" href="css/cv.css">
-        <link rel="icon" type="image/x-icon" href="C:\Users\jm_si\Desktop\Curso Frontend\faviconcv.png">
+        <link rel="stylesheet" href="jm-silvani-marchegiani.github.io/cv.css">
+        <link rel="icon" type="image/x-icon" href="jm-silvani-marchegiani.github.io/faviconcv.png">
     </head>
     <body>
         <header>
@@ -147,7 +147,7 @@ Proyecto final Ticmas
                 <textarea type="text" id="messagename" name="message"></textarea>
                 <input type="submit" value="Send"><br>
             </form>
-            <script src="C:\Users\jm_si\Desktop\Curso_Frontend\function.js"></script>
+            <script src="jm-silvani-marchegiani.github.io\function.js"></script>
             
         </footer>
         
